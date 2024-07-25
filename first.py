@@ -1,7 +1,7 @@
 import subprocess
 
 commands = [
-    ''cd probable-chainsaw',
+    'cd chegg',
     'pip install google-colab-selenium',
     'pip install google-colab-selenium[undetected]',
 ]
